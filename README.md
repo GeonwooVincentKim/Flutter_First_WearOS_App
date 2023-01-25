@@ -21,4 +21,3 @@ samples, guidance on mobile development, and a full API reference.
 - https://cafe.daum.net/vincentarnold/siqS/106?svc=cafeapi
 - https://cafe.daum.net/vincentarnold/siqS/104?svc=cafeapi
 - https://cafe.daum.net/vincentarnold/siqS/105?svc=cafeapi
-- 
