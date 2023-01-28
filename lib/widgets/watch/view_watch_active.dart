@@ -14,7 +14,6 @@ class ViewWatchActive extends StatelessWidget {
       backgroundColor: Colors.white,
       body: Center(
         child: Text("Hello World!!")
-        // child: WeatherForecast(state: state),
       ),
     );
   }
