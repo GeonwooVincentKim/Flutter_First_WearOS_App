@@ -14,3 +14,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Code Explanation
+
+- https://cafe.daum.net/vincentarnold/siqS/107?svc=cafeapi
+- https://cafe.daum.net/vincentarnold/siqS/106?svc=cafeapi
+- https://cafe.daum.net/vincentarnold/siqS/104?svc=cafeapi
+- https://cafe.daum.net/vincentarnold/siqS/105?svc=cafeapi
